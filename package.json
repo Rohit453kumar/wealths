@@ -9,7 +9,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "prism generate"
+    "postinstall": "prisma generate"
     
   },
   "dependencies": {
